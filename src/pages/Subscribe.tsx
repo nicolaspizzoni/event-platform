@@ -10,7 +10,7 @@ import { useCreateSubscriberMutation } from "../graphql/generated";
 //         id
 //     }
 // }
-// `
+// ` 
 
 export function Subscribe(){
     const [name, setNome] = useState('');
